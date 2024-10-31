@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Yahya Elimam
+- 👀 Interests: I'm deeply passionate about software engineering, web development, and digital image processing. I enjoy exploring new technologies and pushing the limits of programming to develop innovative solutions.
+- 🌱 Currently Learning: Advanced machine learning techniques and expanding my expertise in digital image processing.
+- 💞️ Looking to Collaborate On: Projects related to full-stack web development, game development, and machine learning. I’m open to joining initiatives that allow for teamwork and continuous learning.
+- 📫 How to Reach Me: Feel free to reach out via email at Yahyaelimam03@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/yahya-elimam-85981a184).
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I've developed a variety of projects, from a Blood Bank System in Java, Brain Tumor Detection using Python, and a University Course Scheduling System to a Car Racing Game in Unity and an Admin Panel for a dynamic website!
